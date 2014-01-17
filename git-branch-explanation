@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Git branch, for me, is like a parallel universe. When you create a new branch, you create a parallel universe where you can edit your files without touching the MASTER branch (or the real world). The best part is, when you're happy with the alternate universe that you created, you can just merge it with the MASTER branch.
